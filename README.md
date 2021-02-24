@@ -1,3 +1,10 @@
+#Amazon Clone with React.js
+
+![Alt Text](https://github.com/5ebs/Amazon-Clone/blob/master/amazon.gif)
+
+I developed a completely functional Amazon Clone from scratch with React.js. The ecommerce allows you to create a profile, add and remove products from the basket, and pay with credit card. The Clone is linked to a Stripe profile and connected to Cloud Firestore database. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
